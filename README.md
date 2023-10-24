@@ -11,5 +11,6 @@ Install the discord.js library:
 npm install discord.js
 ```
 Run your bot using the following command:
-```node bot.js
+```
+node bot.js
 ```
